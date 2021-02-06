@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,900;1,400&display=swap');
+
+.checkboxes {
+    margin-left: 20px;
+}
+
+.modal-button-container{
+    text-align: center;
+}
+
+.list-group-item > span > .btn {
+    margin: 1rem 0 !important;
+}
+
+.total-cost {
+    margin: auto !important;
+    border-top: 2px solid #55AB55;
+    width: calc(50% - 15px) !important;
+}
+
+.total-cost > p, .price, .jumbo-text, .jumbo-desc, .btn, .modal-title, select, option, .form-check-label, #salad-form > h5 {
+    font-family: 'Lato', sans-serif;
+}
+
+.total-cost > p, .price {
+    font-weight: 900;
+}
+
+.total-cost > p {
+    font-size: 32px;
+}
+
+.price {
+    font-size: 24px;
+}
+
+.ingredients, .jumbo-text, .jumbo-desc, .btn, .modal-title, select, .form-check-label, #salad-form > h5 {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.ingredients {
+    font-size: 16px;
+}
+
+.jumbotron {
+    background-color: #2f8727 !important;
+}
+
+.jumbo-text {
+    font-size: 60px;
+    color: #fff;
+}
+
+.jumbo-desc {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+#salad-form > h5, #dressing {
+    margin-top: 15px !important;
+}
+
+.btn {
+    font-size: 18px !important;
+}
+
+.compose-btn {
+    margin: 15px 0;
+}
+
+
+
+
+
